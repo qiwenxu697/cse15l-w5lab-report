@@ -35,7 +35,7 @@ Before fixing
     return arr;
   }
 ```
-The `reversed` method creates a `newArray`. The length of `newArray` is same with `arr`. Java will assign the default value 0 to each element of the int array. The for loop assigns element in `arr` to be the element in `newArray`. It makes the elements in `arr` to be the default value 0. 
+The `reversed` method creates a `newArray`. The length of `newArray` is same with `arr`. Java will assign the default value 0 to each element of the int array. The for loop assigns each element in `arr` to be the element in `newArray` from the backward direction. It makes the elements in `arr` to be the default value 0. 
 
 After fixing 
 ```
@@ -47,5 +47,4 @@ After fixing
     return newArray;
   }
 ```
-
-
+In order to fix it, we need to assign each element in `newArray` to be the element in `arr` from the backward direction. Last, we return `newArray` which is the reversed version of `arr`.
