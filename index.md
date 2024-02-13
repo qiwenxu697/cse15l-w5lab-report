@@ -48,3 +48,4 @@ After fixing
   }
 ```
 In order to fix it, we need to assign each element in `newArray` to be the element in `arr` from the backward direction. Last, we return `newArray` which is the reversed version of `arr`.
+## Part 2 - Researching Commands
