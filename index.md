@@ -104,8 +104,11 @@ In order to fix it, we need to assign each element in `newArray` to be the eleme
 Resource:
 https://www.computerhope.com/unix/ufind.htm
 ChatGPT:
+
 Prompt: what are some find command-line options
+
 Chatgpt output: 
+
 The find command in Unix-like operating systems is a powerful tool for searching and locating files and directories. Here are some commonly used options for the find command:
 
 Search by Name:
