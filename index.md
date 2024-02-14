@@ -49,3 +49,5 @@ After fixing
 ```
 In order to fix it, we need to assign each element in `newArray` to be the element in `arr` from the backward direction. Last, we return `newArray` which is the reversed version of `arr`.
 ## Part 2 - Researching Commands
+* `find ./technical -name "*.txt"`
+<img width="484" alt="截屏2024-02-13 下午12 41 02" src="https://github.com/qiwenxu697/cse15l-w5lab-report/assets/147675962/655822cf-14fe-401f-8300-e74dd2ee9f68">
